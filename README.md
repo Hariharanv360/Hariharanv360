@@ -1,32 +1,39 @@
+<a href="https://github.com/Hariharanv360">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariharan%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20%26%20Web%20Developer%20%7C%20MERN%20%7C%20Angular%20%7C%20Flask&descAlignY=62&descSize=16" alt="Hariharan V"/>
+</a>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Hariharan+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%2B+Angular;Building+AI-Powered+Web+Apps+%F0%9F%A4%96;Open+to+Software+Developer+Roles+%F0%9F%9A%80" alt="Typing SVG" />
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=Hariharanv360&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views"/>
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Hariharan+V+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%2B+Angular+%2B+Flask;Built+an+AI-Powered+Health+Diagnosis+System;Open+to+Software+Dev+%26+Web+Dev+Roles" alt="Typing SVG"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 ```javascript
 const hariharan = {
   name        : "Hariharan V",
-  location    : "Coimbatore, Tamil Nadu 🇮🇳",
-  degree      : "B.Sc Information Technology (2026)",
+  location    : "Coimbatore, Tamil Nadu, India 🇮🇳",
+  degree      : "B.Sc Information Technology (2023–2026)",
   college     : "Sri Krishna Arts & Science College",
-  github      : "Hariharanv360",
-  email       : "hariharanv362@gmail.com",
-
-  stack       : ["React.js", "Node.js", "Express.js",
-                 "Angular", "Flask", "Python",
-                 "MongoDB", "MySQL", "PHP"],
-
-  learning    : ["Next.js", "Tailwind CSS", "TypeScript"],
-
-  funFact     : "I built an AI health diagnosis app — \n" +
-                "basically a doctor, but make it code 🩺",
-
-  motto       : () => "Ship it. Learn from it. Build better.",
+  stack       : ["Angular", "React.js", "Node.js", "Express.js",
+                 "Flask", "Python", "PHP", "MongoDB", "MySQL"],
+  currentlyLearning: ["Next.js", "Tailwind CSS", "TypeScript",
+                       "REST API Design"],
+  internships : ["SMCT Softwares (5 months)", "LITZ Tech (30 days)"],
+  published   : "AI-Driven Framework for Intelligent Analysis " +
+                "of Digital Forensic Reports — IJPREMS",
+  openTo      : "Software Developer | Full-Stack Developer | Web Developer",
+  funFact     : "I built an AI symptom checker before I had a LinkedIn!",
+  motto       : () => "Ship it. Learn from it. Improve it.",
 };
 ```
 
@@ -34,7 +41,7 @@ const hariharan = {
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -47,13 +54,11 @@ const hariharan = {
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Databases**
@@ -65,21 +70,28 @@ const hariharan = {
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**ML / Other**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Hariharanv360">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hariharanv360&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/Hariharanv360">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharanv360&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+
+<a href="https://github.com/Hariharanv360">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hariharanv360&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/Hariharanv360">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharanv360&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+</a>
+
 </div>
 
 ---
@@ -87,7 +99,9 @@ const hariharan = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hariharanv360&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com?user=Hariharanv360&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+
 </div>
 
 ---
@@ -95,7 +109,19 @@ const hariharan = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharanv360&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharanv360&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hariharanv360&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+
 </div>
 
 ---
@@ -103,26 +129,28 @@ const hariharan = {
 ## 💼 Work Experience
 
 <details>
-  <summary>🏢 <strong>SMCT Softwares, Coimbatore</strong> — Project Intern &nbsp;|&nbsp; Nov 2025 – Mar 2026</summary>
-  <br/>
+<summary><b>🏢 SMCT Softwares — Project Intern &nbsp;|&nbsp; Nov 2025 – Mar 2026 &nbsp;|&nbsp; Coimbatore</b></summary>
 
-  > `Angular` `Node.js` `Flask` `Python` `MongoDB` `Random Forest ML` `REST APIs`
+<br/>
 
-  - Built a full-stack **Intelligent Health Diagnosis & Symptom Checker** from scratch under industry supervision across a 5-month engagement.
-  - Integrated a **Random Forest ML model** for symptom-based health predictions, achieving consistent diagnostic accuracy.
-  - Participated in code reviews, iterative debugging, and feature enhancements — delivered the complete project on schedule.
-  - Gained hands-on exposure to real-world software delivery workflows, client-side logic, and ML model integration in a production-grade codebase.
+> `Angular` `Node.js` `Flask` `Python` `MongoDB` `Random Forest ML` `REST APIs`
+
+- Built a full-stack **Intelligent Health Diagnosis and Symptom Checker** web app from the ground up over a 5-month internship under direct industry supervision.
+- Integrated a **Random Forest ML model** for symptom-based health predictions, achieving consistent diagnostic accuracy across test cases.
+- Participated in code reviews, iterative debugging sessions, and feature enhancements — delivering the complete project on schedule.
+- Gained real-world experience in structured development workflows, API design, and cross-stack integration.
 
 </details>
 
 <details>
-  <summary>🏢 <strong>LITZ Tech, Coimbatore</strong> — Intern &nbsp;|&nbsp; May 2025 (30 Days)</summary>
-  <br/>
+<summary><b>🏢 LITZ Tech — Intern &nbsp;|&nbsp; May 2025 (30 Days) &nbsp;|&nbsp; Coimbatore</b></summary>
 
-  > `HTML` `CSS` `JavaScript` `Web Development` `Front-End Best Practices`
+<br/>
 
-  - Completed an industry-college collaboration internship with exposure to professional IT workflows and enterprise tooling.
-  - Applied web development knowledge in a live environment, reinforcing front-end best practices and software delivery processes.
+> `HTML` `CSS` `JavaScript` `Frontend Best Practices` `Enterprise IT Workflows`
+
+- Completed an industry-college collaboration internship with hands-on exposure to professional IT processes and enterprise tooling.
+- Applied front-end web development skills in a live environment, reinforcing software delivery practices and UI best practices.
 
 </details>
 
@@ -134,23 +162,24 @@ const hariharan = {
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🩺 Intelligent Health Diagnosis & Symptom Checker](https://github.com/Hariharanv360/health-diagnosis-system-and-symptom-checker) | Angular · Node.js · Flask · Python · MongoDB · Random Forest | AI-powered symptom checker with ML predictions · Developed under 5-month industry supervision at SMCT Softwares · Full-stack with Angular frontend + Flask/Python ML backend |
-| [🛒 E-Commerce Portal](https://github.com/Hariharanv360/online-shopping-portal) | MongoDB · Express.js · React.js · Node.js · Python | Full MERN stack e-commerce site · User auth, product listing, cart & order management · RESTful APIs + responsive React UI |
+| [🧠 Intelligent Health Diagnosis & Symptom Checker](https://github.com/Hariharanv360) | Angular · Node.js · Flask · Python · MongoDB · Random Forest ML | AI-powered symptom checker with ML-based health predictions. Built & tested over 5 months under industry supervision at SMCT Softwares. |
+| [🛒 E-Commerce Portal](https://github.com/Hariharanv360) | MongoDB · Express.js · React.js · Node.js · Python | Full-stack MERN e-commerce site with user auth, product listing, shopping cart, and order management. RESTful API-driven architecture. |
+| [📚 Bookshop Management System](https://github.com/Hariharanv360) | PHP · MySQL · XAMPP · HTML · CSS · JS | Web-based admin system with full CRUD operations for managing books, customers, billing, and sales records. |
 
 </div>
 
 ---
 
-## 🏅 Achievements
+## 🏅 Achievements & Certifications
 
 <div align="center">
 
-| | Achievement | Details |
+| 🎖️ | Achievement | Details |
 |:---:|:------------|:--------|
-| 📄 | **Research Publication** | Co-authored *"AI-Driven Framework for Intelligent Analysis of Digital Forensic Reports"* — published in IJPREMS |
-| 🎓 | **IBM Data Science Specialization** | Completed 4-course IBM specialization covering Data Science, Tools, Methodology, and Python Databases |
-| 🏛️ | **NPTEL Certifications** | Soft Skill Development & Developing Soft Skills and Personality — IIT/NIT certified |
-| 🎨 | **UI/UX + Full Stack Traineeship** | Completed dual traineeship at Maiyyam covering UI/UX Design and Full Stack Development |
+| 📄 | **Research Publication** | Co-authored *"AI-Driven Framework for Intelligent Analysis of Digital Forensic Reports"* — Published in **IJPREMS** |
+| 🎓 | **IBM Data Science Specialization** | 4-course specialization covering Data Science fundamentals, Tools, Methodology & Python-based Databases |
+| 🎨 | **UI/UX & Full Stack Development** | Traineeship completed at **Maiyyam** |
+| 📜 | **NPTEL Certifications** | Soft Skill Development · Developing Soft Skills & Personality |
 
 </div>
 
@@ -161,7 +190,7 @@ const hariharan = {
 <div align="center">
 
 | Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
+|:-------|:-----------|:-----|:------|
 | B.Sc Information Technology | Sri Krishna Arts & Science College (Autonomous), Coimbatore | 2023 – 2026 | 6.6 / 10 CGPA |
 | Higher Secondary Certificate (HSC) | CMS Matric Higher Secondary School, Coimbatore | 2023 | 72.8% |
 
@@ -169,26 +198,33 @@ const hariharan = {
 
 ---
 
-## 🧱 Currently Learning
+## 🌱 Currently Learning
 
 ```
-🧱 Next.js      → App Router, SSR, SSG, API Routes
-⚡ TypeScript   → Types, Interfaces, Generics
-🎨 Tailwind CSS → Utility-First Design, Custom Themes
-🔐 Auth         → JWT, Session Management, OAuth Basics
-🗄️ Advanced DB  → MongoDB Aggregation, MySQL Optimization
+🧩  Next.js        →  App Router · SSR · SSG · API Routes
+💨  Tailwind CSS   →  Utility-first styling · Responsive Design
+🟦  TypeScript     →  Type safety in React & Node projects
+🔗  REST API Design →  Auth flows · Error handling · API versioning
+⚡  Express.js     →  Middleware · Route structuring · Deployment
 ```
 
 ---
 
+## 🤝 Connect With Me
+
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Hariharanv360&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Hariharanv360)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariharan-v-26135633b)
-[![Email](https://img.shields.io/badge/Email-hariharanv362@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hariharanv362@gmail.com)
-
-*"Ship it. Learn from it. Build better."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hariharan%20V-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariharan-v-26135633b)
+[![GitHub](https://img.shields.io/badge/GitHub-Hariharanv360-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hariharanv360)
+[![Email](https://img.shields.io/badge/Email-hariharanv362@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hariharanv362@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-9790122805-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919790122805)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
+---
+
+<div align="center">
+<i>"Ship it. Learn from it. Improve it."</i>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="footer wave"/>
