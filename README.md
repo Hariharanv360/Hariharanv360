@@ -1,6 +1,6 @@
-<a href="https://github.com/Hariharanv360">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariharan%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20%26%20Web%20Developer%20%7C%20MERN%20%7C%20Angular%20%7C%20Flask&descAlignY=62&descSize=16" alt="Hariharan V"/>
-</a>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariharan+V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack+%26+Web+Developer+%7C+MERN+%7C+Angular+%7C+Flask&descAlignY=62&descSize=16" alt="Hariharan V"/>
+</div>
 
 <div align="center">
 
@@ -116,15 +116,6 @@ const hariharan = {
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hariharanv360&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-
-</div>
-
----
 
 ## 💼 Work Experience
 
@@ -162,8 +153,8 @@ const hariharan = {
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🧠 Intelligent Health Diagnosis & Symptom Checker](https://github.com/Hariharanv360) | Angular · Node.js · Flask · Python · MongoDB · Random Forest ML | AI-powered symptom checker with ML-based health predictions. Built & tested over 5 months under industry supervision at SMCT Softwares. |
-| [🛒 E-Commerce Portal](https://github.com/Hariharanv360) | MongoDB · Express.js · React.js · Node.js · Python | Full-stack MERN e-commerce site with user auth, product listing, shopping cart, and order management. RESTful API-driven architecture. |
+| [🧠 Intelligent Health Diagnosis & Symptom Checker](https://github.com/Hariharanv360/health-diagnosis-system-and-symptom-checker) | Angular · Node.js · Flask · Python · MongoDB · Random Forest ML | AI-powered symptom checker with ML-based health predictions. Built & tested over 5 months under industry supervision at SMCT Softwares. |
+| [🛒 E-Commerce Portal](https://github.com/Hariharanv360/online-shopping-portal) | MongoDB · Express.js · React.js · Node.js · Python | Full-stack MERN e-commerce site with user auth, product listing, shopping cart, and order management. RESTful API-driven architecture. |
 | [📚 Bookshop Management System](https://github.com/Hariharanv360) | PHP · MySQL · XAMPP · HTML · CSS · JS | Web-based admin system with full CRUD operations for managing books, customers, billing, and sales records. |
 
 </div>
