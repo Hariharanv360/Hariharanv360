@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariharan%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20%26%20Web%20Developer%20%7C%20MERN%20%7C%20Angular%20%7C%20Python&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariharan+V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack+%26+Web+Developer+%7C+MERN+%7C+Angular+%7C+Python&descAlignY=62&descSize=16" width="100%" alt="header"/>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -105,7 +105,7 @@ const hariharan = {
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hariharanv360&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hariharanv360&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="Trophies"/>
 </div>
 
 ---
@@ -144,9 +144,8 @@ const hariharan = {
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🩺 Intelligent Health Diagnosis & Symptom Checker](https://github.com/Hariharanv360) | Angular · Node.js · Flask · Python · MongoDB · Random Forest | AI-powered symptom checker with ML predictions · Developed under 5-month industry supervision at SMCT Softwares · Full-stack with Angular frontend + Flask/Python ML backend |
-| [🛒 E-Commerce Portal](https://github.com/Hariharanv360) | MongoDB · Express.js · React.js · Node.js · Python | Full MERN stack e-commerce site · User auth, product listing, cart & order management · RESTful APIs + responsive React UI |
-| [📚 Bookshop Management System](https://github.com/Hariharanv360) | PHP · MySQL · XAMPP · HTML · CSS · JS | Complete CRUD operations for books, customers, billing & sales · Admin dashboard for day-to-day operations · Structured MySQL data storage |
+| [🩺 Intelligent Health Diagnosis & Symptom Checker](https://github.com/Hariharanv360/health-diagnosis-system-and-symptom-checker) | Angular · Node.js · Flask · Python · MongoDB · Random Forest | AI-powered symptom checker with ML predictions · Developed under 5-month industry supervision at SMCT Softwares · Full-stack with Angular frontend + Flask/Python ML backend |
+| [🛒 E-Commerce Portal](https://github.com/Hariharanv360/online-shopping-portal) | MongoDB · Express.js · React.js · Node.js · Python | Full MERN stack e-commerce site · User auth, product listing, cart & order management · RESTful APIs + responsive React UI |
 
 </div>
 
