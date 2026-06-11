@@ -1,5 +1,9 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariharan+V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack+%26+Web+Developer+%7C+MERN+%7C+Angular+%7C+Flask&descAlignY=62&descSize=16" alt="Hariharan V"/>
+
+# 👋 Hi, I'm Hariharan V
+
+### Full-Stack & Web Developer · MERN · Angular · Flask · Python
+
 </div>
 
 <div align="center">
@@ -215,7 +219,6 @@ const hariharan = {
 ---
 
 <div align="center">
-<i>"Ship it. Learn from it. Improve it."</i>
+<i>"Ship it. Learn from it. Improve it."</i><br/><br/>
+⭐ <b>If you find my work useful, consider starring a repo!</b>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="footer wave"/>
